@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Name-Surname>admin admin</Name-Surname>
+    <PhoneNumber>05452325113</PhoneNumber>
+    <Address>İstanbul Teknik</Address>
+    <City>Turkey</City>
+    <Country>Turkey</Country>
+    <E-Mail>admin@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>YagizHarman</Username>
+    <Name-Surname>Yağız Harman</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Espark</Address>
+    <City>Trabzon</City>
+    <Country>Turkey</Country>
+    <E-Mail>yaharman61@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Name-Surname>user useroglu</Name-Surname>
+    <PhoneNumber>05420213564</PhoneNumber>
+    <Address>UserCity</Address>
+    <City>UserTown</City>
+    <Country>Useristan</Country>
+    <E-Mail>useruseroglu@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>bngs</Username>
+    <Name-Surname>bengisu</Name-Surname>
+    <PhoneNumber>564654646</PhoneNumber>
+    <Address>izmir</Address>
+    <City>izmir</City>
+    <Country>turkey</Country>
+    <E-Mail>bnhs@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>HarmanYagiz</Username>
+    <Name-Surname>Harman Yağız</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Tepebaşı</Address>
+    <City>123456</City>
+    <Country>Türkiye</Country>
+    <E-Mail>yagizharman4biz@gmail.com</E-Mail>
+  </User>
+</Users>

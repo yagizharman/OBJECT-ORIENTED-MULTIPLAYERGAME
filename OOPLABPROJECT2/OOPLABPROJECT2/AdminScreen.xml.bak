@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Name-Surname>admin admin</Name-Surname>
+    <PhoneNumber>05452325113</PhoneNumber>
+    <Address>İstanbul Teknik</Address>
+    <City>Turkey</City>
+    <Country>Turkey</Country>
+    <E-Mail>admin@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>YagizHarman</Username>
+    <Name-Surname>Yağız Harman</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Espark</Address>
+    <City>Trabzon</City>
+    <Country>Turkey</Country>
+    <E-Mail>yaharman61@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Name-Surname>user useroglu</Name-Surname>
+    <PhoneNumber>05420213564</PhoneNumber>
+    <Address>UserCity</Address>
+    <City>user</City>
+    <Country>Useristan</Country>
+    <E-Mail>useruseroglu@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>bengisu001</Username>
+    <Name-Surname>bengisu şahin</Name-Surname>
+    <PhoneNumber>05456123541</PhoneNumber>
+    <Address>İzmir Merkez</Address>
+    <City>052156315</City>
+    <Country>Turkey</Country>
+    <E-Mail>bengisu001@gmail.com</E-Mail>
+  </User>
+</Users>

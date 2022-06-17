@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Name-Surname>admin admin</Name-Surname>
+    <PhoneNumber>05452325113</PhoneNumber>
+    <Address>Eskisehir Osmangazi</Address>
+    <City>Turkey</City>
+    <Country>Turkey</Country>
+    <E-Mail>admin@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Name-Surname>user user</Name-Surname>
+    <PhoneNumber>05352425213</PhoneNumber>
+    <Address>Eskisehir Tepebasi</Address>
+    <City>Eskisehir</City>
+    <Country>Turkey</Country>
+    <E-Mail>user@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>YagizHarman</Username>
+    <Name-Surname>Yağız Harman</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Tepebaşı</Address>
+    <City>Eskişehir</City>
+    <Country>Turkey</Country>
+    <E-Mail>yaharman61@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>coolboy</Username>
+    <Name-Surname>cool boy</Name-Surname>
+    <PhoneNumber>0545612654</PhoneNumber>
+    <Address>Eskisehir Espark</Address>
+    <City>coolboy2</City>
+    <Country>Turkey</Country>
+    <E-Mail>coolboy01@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>Hulk</Username>
+    <Name-Surname>Hulk Jr</Name-Surname>
+    <PhoneNumber>0542354852</PhoneNumber>
+    <Address>Kartal,Istanbul</Address>
+    <City>5161561</City>
+    <Country>Turkey</Country>
+    <E-Mail>hulkjr@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>new</Username>
+    <Name-Surname>new kid</Name-Surname>
+    <PhoneNumber>05423516849</PhoneNumber>
+    <Address>BirYer</Address>
+    <City>new54548</City>
+    <Country>Turkey</Country>
+    <E-Mail>Mail</E-Mail>
+  </User>
+  <User>
+    <Username>kidfrombottom</Username>
+    <Name-Surname>Seckin Kurt</Name-Surname>
+    <PhoneNumber>05152553878</PhoneNumber>
+    <Address>Trabzon Ortahisar</Address>
+    <City>0254621</City>
+    <Country>Turkey</Country>
+    <E-Mail>kidfrombottom@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user2</Username>
+    <Name-Surname>user useroğlu</Name-Surname>
+    <PhoneNumber>054621515612</PhoneNumber>
+    <Address>şırnak</Address>
+    <City>user229194</City>
+    <Country>turkey</Country>
+    <E-Mail>user2oglu@gmail.com</E-Mail>
+  </User>
+</Users>

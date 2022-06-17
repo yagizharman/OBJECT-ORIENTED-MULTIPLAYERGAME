@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <Name-Surname>admin admin</Name-Surname>
+    <PhoneNumber>05452325113</PhoneNumber>
+    <Address>İstanbul Teknik</Address>
+    <City>Turkey</City>
+    <Country>Turkey</Country>
+    <E-Mail>admin@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>YagizHarman</Username>
+    <Password>08d7574465e365c99b711a9f4440ebcf714ea81948ce5301d79d116ad3b5224e</Password>
+    <Name-Surname>Yağız Harman</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Espark</Address>
+    <City>Trabzon</City>
+    <Country>Turkey</Country>
+    <E-Mail>yaharman61@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Password>04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb</Password>
+    <Name-Surname>user useroglu</Name-Surname>
+    <PhoneNumber>05420213564</PhoneNumber>
+    <Address>UserCity</Address>
+    <City>UserTown</City>
+    <Country>Useristan</Country>
+    <E-Mail>useruseroglu@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>bngs</Username>
+    <Password>8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92</Password>
+    <Name-Surname>bengisu</Name-Surname>
+    <PhoneNumber>564654646</PhoneNumber>
+    <Address>izmir</Address>
+    <City>izmir</City>
+    <Country>turkey</Country>
+    <E-Mail>bnhs@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>HarmanYagiz</Username>
+    <Password>8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92</Password>
+    <Name-Surname>Harman Yağız</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Tepebaşı</Address>
+    <City>Trabzon</City>
+    <Country>Türkiye</Country>
+    <E-Mail>yagizharman4biz@gmail.com</E-Mail>
+  </User>
+</Users>

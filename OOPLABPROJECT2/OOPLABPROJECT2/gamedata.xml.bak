@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Username>admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <Name-Surname>admin admin</Name-Surname>
+    <PhoneNumber>05452325113</PhoneNumber>
+    <Address>İstanbul Teknik</Address>
+    <City>Turkey</City>
+    <Country>Turkey</Country>
+    <E-Mail>admin@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>YagizHarman</Username>
+    <Password>fea863249afe1c642cc8e0d79c05cbc582ffadb2986b323a94f1ffaef342a3f6</Password>
+    <Name-Surname>Yağız Harman</Name-Surname>
+    <PhoneNumber>05462526224</PhoneNumber>
+    <Address>Eskişehir Espark</Address>
+    <City>Trabzon</City>
+    <Country>Turkey</Country>
+    <E-Mail>yaharman61@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>user</Username>
+    <Password>04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb</Password>
+    <Name-Surname>user useroglu</Name-Surname>
+    <PhoneNumber>05420213564</PhoneNumber>
+    <Address>UserCity</Address>
+    <City>UserTown</City>
+    <Country>Useristan</Country>
+    <E-Mail>useruseroglu@gmail.com</E-Mail>
+  </User>
+  <User>
+    <Username>bengisu001</Username>
+    <Password>04cf7a09b585532d0dba6179c08e955bc9939a4b54cb8b1f691e6682d404fb81</Password>
+    <Name-Surname>bengisu şahin</Name-Surname>
+    <PhoneNumber>05456123541</PhoneNumber>
+    <Address>İzmir Merkez</Address>
+    <City>İzmir</City>
+    <Country>Turkey</Country>
+    <E-Mail>bengisu001@gmail.com</E-Mail>
+  </User>
+</Users>
